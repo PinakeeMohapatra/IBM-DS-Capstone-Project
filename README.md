@@ -1,5 +1,5 @@
 
-![bg](https://user-images.githubusercontent.com/63530823/153649527-bdb9a4d6-e399-4508-be6c-74a62ec9f5bf.png)
+<img width="812" alt="image" src="https://user-images.githubusercontent.com/63530823/168828751-83c1b350-ddac-4c80-873a-2fbd70c6dae1.png">
 # IBM Data Science Capstone Project - Winning Space Race with Data Science
 
 ## Introduction
